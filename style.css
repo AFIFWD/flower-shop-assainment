@@ -177,7 +177,7 @@
     gap: 200px;
 }
 .sectiontwo1{
-    margin-top: 300px;
+    margin-top: 200px;
     margin-left: 200px;
     
 }
@@ -327,6 +327,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
+    margin-bottom: 20px;
 }
 .footer-div h5{
     color: #5e5d5d;
